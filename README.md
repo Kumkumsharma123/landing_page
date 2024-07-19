@@ -26,3 +26,5 @@ Ensuring consistency in the size of category items and centering text.
 JavaScript:
 
 Adding simple functionality to the authentication buttons (Login and SignUp).
+![Landing Page](https://github.com/user-attachments/assets/024b3410-d526-4bc5-8256-4710bdf33b3d)
+
